@@ -45,4 +45,16 @@ QuickSight is serverless and can automatically scale to tens of thousands of use
 
 With QuickSight Q, anyone in an organization can ask business questions using natural language and receive highly accurate answers in seconds. QuickSight Q uses machine learning to interpret the intent of a question and analyze the correct data to provide accurate answers to business questions quickly. 
 
+# Scale to tens of thousands of users
+- Deliver rich, interactive dashboards for your readers
+QuickSight makes it easy and fast to create interactive dashboards and reports for your users. You can securely share those dashboards with anyone in your organization via browsers or mobile devices. With QuickSight, you choose from a wide library of visualizations, charts, and tables, add interactive features like drill-downs and filters, and perform automatic data refreshes to build interactive dashboards. QuickSight also allows you to schedule automatic email-based reports, so you can get key insights delivered to your inbox.
+
+- Explore, analyze, collaborate
+QuickSight gives users and analysts self-service business intelligence (BI), so they can answer their own questions, collaborate, and share insights. With QuickSight, your users can connect to data sources, create/edit datasets, create visual analyses, invite co-workers to collaborate on analyses, and publish dashboards and reports.
+- SPICE (super-fast, parallel, in-memory, calculation engine)
+With SPICE, QuickSight’s in-memory calculation engine you achieve blazing fast performance at scale. SPICE automatically replicates data for high availability allowing thousands of users to simultaneously perform fast, interactive analysis while shielding your underlying data infrastructure, saving you time and resources.
+Discover hidden insights
+- ML Insights
+ML Insights leverages AWS’s proven machine learning (ML) and natural language capabilities to help you gain deeper insights from your data. These powerful, out-of-the-box features make it easy for anyone to discover hidden trends and outliers, identify key business drivers, and perform powerful what-if analysis and forecasting with no technical expertise or ML experience needed.
+
 
