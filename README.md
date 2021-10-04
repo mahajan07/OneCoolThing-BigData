@@ -44,3 +44,5 @@ QuickSight lets you easily create and publish interactive BI dashboards as well 
 QuickSight is serverless and can automatically scale to tens of thousands of users without any infrastructure to manage or capacity to plan for. It is also the first BI service to offer pay-per-session pricing, where you only pay when your users access their dashboards or reports, making it cost-effective for large scale deployments.
 
 With QuickSight Q, anyone in an organization can ask business questions using natural language and receive highly accurate answers in seconds. QuickSight Q uses machine learning to interpret the intent of a question and analyze the correct data to provide accurate answers to business questions quickly. 
+
+
