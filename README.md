@@ -37,3 +37,10 @@ IMAGE+
 - you will build a working web application, served from within your VPC and complete with a logging back end provided by Amazon Elasticsearch Service and with real-time monitoring using Kibana. The application provides a movie search experience across 5,000 movies, powered by Amazon ES and served with Apache httpd and PHP. The logging infrastructure sends the httpd web logs to Amazon ES via Amazon ElastiCache for Redis, which we use to buffer the log lines, and Logstash, which transforms and delivers records to Amazon ES.
 - You will deploy an internet gateway to allow traffic to flow to your application via an Application Load Balancer, and a proxy/bastion instance to allow administrative and Kibana access.
 - For the logging infrastructure, we use Filebeat and Logstash on EC2, Amazon ElastiCache for Redis and of course Amazon Elasticsearch Service. Filebeat is a host-based log shipper that remembers its location if interrupted. Logstash collects, transforms and pushes your data to your desired store which in this case is an Amazon Elasticsearch Service Domain. The combination of these items gives a flexible, configurable, private networked option within VPC that will allow you to scale as your volume increases.
+
+# QUICKSIGHT
+QuickSight lets you easily create and publish interactive BI dashboards as well as receive answers in seconds through natural langauge queries. QuickSight dashboards can be accessed from any device, and seamlessly embedded into your applications, portals, and websites.
+
+QuickSight is serverless and can automatically scale to tens of thousands of users without any infrastructure to manage or capacity to plan for. It is also the first BI service to offer pay-per-session pricing, where you only pay when your users access their dashboards or reports, making it cost-effective for large scale deployments.
+
+With QuickSight Q, anyone in an organization can ask business questions using natural language and receive highly accurate answers in seconds. QuickSight Q uses machine learning to interpret the intent of a question and analyze the correct data to provide accurate answers to business questions quickly. 
